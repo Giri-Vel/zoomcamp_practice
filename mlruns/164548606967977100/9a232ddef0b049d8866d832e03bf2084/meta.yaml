@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/164548606967977100/9a232ddef0b049d8866d832e03bf2084/artifacts
+end_time: 1747829428595
+entry_point_name: ''
+experiment_id: '164548606967977100'
+lifecycle_stage: active
+run_id: 9a232ddef0b049d8866d832e03bf2084
+run_name: unleashed-finch-929
+run_uuid: 9a232ddef0b049d8866d832e03bf2084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829416765
+status: 3
+tags: []
+user_id: lenovo

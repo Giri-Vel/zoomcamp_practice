@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/809024351200110066/c246acfedb564bd08334270769c5ba4c/artifacts
+end_time: 1747830665345
+entry_point_name: ''
+experiment_id: '809024351200110066'
+lifecycle_stage: active
+run_id: c246acfedb564bd08334270769c5ba4c
+run_name: melodic-hen-161
+run_uuid: c246acfedb564bd08334270769c5ba4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830633194
+status: 3
+tags: []
+user_id: lenovo

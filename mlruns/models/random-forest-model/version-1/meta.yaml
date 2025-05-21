@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747828620939
+current_stage: None
+description: null
+last_updated_timestamp: 1747828620939
+name: random-forest-model
+run_id: 0e8119c8680246b0a0a06c93ab7c3c32
+run_link: null
+source: file:///d:/MLOPS%20learning/mlops_zoomcamp/zoomcamp_practice/mlruns/0/0e8119c8680246b0a0a06c93ab7c3c32/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/MLOPS%20learning/mlops_zoomcamp/zoomcamp_practice/mlruns/0/0e8119c8680246b0a0a06c93ab7c3c32/artifacts/model
+user_id: null
+version: 1

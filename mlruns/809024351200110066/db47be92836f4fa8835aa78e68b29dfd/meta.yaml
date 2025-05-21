@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/809024351200110066/db47be92836f4fa8835aa78e68b29dfd/artifacts
+end_time: 1747830743101
+entry_point_name: ''
+experiment_id: '809024351200110066'
+lifecycle_stage: active
+run_id: db47be92836f4fa8835aa78e68b29dfd
+run_name: monumental-hare-109
+run_uuid: db47be92836f4fa8835aa78e68b29dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830707653
+status: 3
+tags: []
+user_id: lenovo

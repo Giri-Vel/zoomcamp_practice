@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLOPS%20learning/mlops_zoomcamp/zoomcamp_practice/mlruns/0/0e8119c8680246b0a0a06c93ab7c3c32/artifacts
+end_time: 1747828326322
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e8119c8680246b0a0a06c93ab7c3c32
+run_name: worried-hound-249
+run_uuid: 0e8119c8680246b0a0a06c93ab7c3c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828230272
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/809024351200110066/80c80e27d1884105846dfd8fd8c77f7f/artifacts
+end_time: 1747830633068
+entry_point_name: ''
+experiment_id: '809024351200110066'
+lifecycle_stage: active
+run_id: 80c80e27d1884105846dfd8fd8c77f7f
+run_name: redolent-moose-524
+run_uuid: 80c80e27d1884105846dfd8fd8c77f7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830580529
+status: 3
+tags: []
+user_id: lenovo

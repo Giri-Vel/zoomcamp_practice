@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/164548606967977100/2eeca4755c164d30b2a426d3e4796b54/artifacts
+end_time: 1747829446482
+entry_point_name: ''
+experiment_id: '164548606967977100'
+lifecycle_stage: active
+run_id: 2eeca4755c164d30b2a426d3e4796b54
+run_name: brawny-whale-743
+run_uuid: 2eeca4755c164d30b2a426d3e4796b54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829438520
+status: 3
+tags: []
+user_id: lenovo

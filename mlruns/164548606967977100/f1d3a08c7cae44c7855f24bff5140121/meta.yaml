@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/164548606967977100/f1d3a08c7cae44c7855f24bff5140121/artifacts
+end_time: 1747829452829
+entry_point_name: ''
+experiment_id: '164548606967977100'
+lifecycle_stage: active
+run_id: f1d3a08c7cae44c7855f24bff5140121
+run_name: rare-chimp-235
+run_uuid: f1d3a08c7cae44c7855f24bff5140121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829446652
+status: 3
+tags: []
+user_id: lenovo

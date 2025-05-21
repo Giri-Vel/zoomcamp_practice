@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/164548606967977100/bfa1248051ec4c5cb77a56d09cf164bd/artifacts
+end_time: 1747829455652
+entry_point_name: ''
+experiment_id: '164548606967977100'
+lifecycle_stage: active
+run_id: bfa1248051ec4c5cb77a56d09cf164bd
+run_name: burly-sheep-105
+run_uuid: bfa1248051ec4c5cb77a56d09cf164bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829452898
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/164548606967977100/dc6058c3739e4f12a4c21644ca8c0b22/artifacts
+end_time: 1747829474947
+entry_point_name: ''
+experiment_id: '164548606967977100'
+lifecycle_stage: active
+run_id: dc6058c3739e4f12a4c21644ca8c0b22
+run_name: redolent-doe-726
+run_uuid: dc6058c3739e4f12a4c21644ca8c0b22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829463526
+status: 3
+tags: []
+user_id: lenovo

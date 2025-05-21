@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/164548606967977100/0a3ea662d27b43308e0e049a51565434/artifacts
+end_time: 1747829376714
+entry_point_name: ''
+experiment_id: '164548606967977100'
+lifecycle_stage: active
+run_id: 0a3ea662d27b43308e0e049a51565434
+run_name: sedate-pig-921
+run_uuid: 0a3ea662d27b43308e0e049a51565434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829370926
+status: 3
+tags: []
+user_id: lenovo

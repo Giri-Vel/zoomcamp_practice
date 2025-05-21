@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/164548606967977100/8821ccb81d53401b9290bd5589ee8f8e/artifacts
+end_time: 1747829438455
+entry_point_name: ''
+experiment_id: '164548606967977100'
+lifecycle_stage: active
+run_id: 8821ccb81d53401b9290bd5589ee8f8e
+run_name: clean-penguin-202
+run_uuid: 8821ccb81d53401b9290bd5589ee8f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829428658
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/809024351200110066/9e25be2d7f724f0fba485137e43003fa/artifacts
+end_time: 1747830414816
+entry_point_name: ''
+experiment_id: '809024351200110066'
+lifecycle_stage: active
+run_id: 9e25be2d7f724f0fba485137e43003fa
+run_name: peaceful-mouse-222
+run_uuid: 9e25be2d7f724f0fba485137e43003fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830346680
+status: 3
+tags: []
+user_id: lenovo

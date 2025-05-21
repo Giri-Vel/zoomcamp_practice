@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/809024351200110066/b8e86ec1ceed42f3bb1a0da8f7472688/artifacts
+end_time: 1747830580298
+entry_point_name: ''
+experiment_id: '809024351200110066'
+lifecycle_stage: active
+run_id: b8e86ec1ceed42f3bb1a0da8f7472688
+run_name: mysterious-grub-768
+run_uuid: b8e86ec1ceed42f3bb1a0da8f7472688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830517228
+status: 3
+tags: []
+user_id: lenovo

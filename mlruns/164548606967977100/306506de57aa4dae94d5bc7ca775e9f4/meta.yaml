@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/164548606967977100/306506de57aa4dae94d5bc7ca775e9f4/artifacts
+end_time: 1747829463450
+entry_point_name: ''
+experiment_id: '164548606967977100'
+lifecycle_stage: active
+run_id: 306506de57aa4dae94d5bc7ca775e9f4
+run_name: sassy-penguin-262
+run_uuid: 306506de57aa4dae94d5bc7ca775e9f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829455716
+status: 3
+tags: []
+user_id: lenovo
